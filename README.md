@@ -1,4 +1,5 @@
-StudentMarket
+**StudentMarket**
+
 Create your own classified advertisement website with ease using Sijeesh Miziha's Olx-Clone React App - introducing StudentMarket! This powerful platform allows users to categorize items, post classified ads for selling, buying, exchanging, and even organizing meetups with people nearby.
 
 Well-typed Code
